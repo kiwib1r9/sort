@@ -4,7 +4,7 @@
 #include<string.h>
 #include<math.h>
 #include<stdbool.h>
-                                                            // potências de 10 a serem testadas como tamanhos de arrays
+                                                          
 
 struct log_info{
   int comparacoes;
